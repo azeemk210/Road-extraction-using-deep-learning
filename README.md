@@ -3,7 +3,7 @@ U-Net algorithm to extract road mask from satellite images
 
 This project implements a deep learning model using U-Net architecture for road extraction from satellite images. The goal is to accurately identify the roads in a satellite image, which can be useful for various applications such as urban planning, disaster response, and traffic management.
 
-Data Preparation
+Data Preparation:
 The data preparation process includes the following steps:
 
 Image pre-processing: This step involves resizing the images to a standard size, converting them to grayscale, and normalizing the pixel values to improve model performance.
